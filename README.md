@@ -24,7 +24,22 @@ Here are some ideas to get you started:
 
 </p>
 
-<br/>
+
+<br />
+<br />
+
+### Languages and Tools
+[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
+[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
+[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
+[<img align="left" alt=“React” width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />][youtube]
+[<img align="left" alt=“NodeJs” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />][youtube]
+[<img align="left" alt=“NodeJs” width="26px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />][youtube]
+
+
+
+<br />
+<br />
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahya-khodr&theme=algolia" alt="Yahya" /></p>
