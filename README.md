@@ -22,8 +22,27 @@ Here are some ideas to get you started:
 
 <br>
 <br>
+## 📊 Github Stats
 
- <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Yahya-Khodr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahya-Khodr&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yahya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yahya-khodr&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yahya-khodr&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Yahya-khodr"><img alt="Yahya-khodr's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yahya-khodr&custom_title=Yahya-khodr's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
