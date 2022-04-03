@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
-[<img align="left" alt=“React” width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />][youtube]
-[<img align="left" alt=“NodeJs” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" />][youtube]
-[<img align="left" alt=“NodeJs” width="26px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />][youtube]
+[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />]
+[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />]
+[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />]
+[<img align="left" alt=“React” width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />]
+[<img align="left" alt=“Python” width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />]
+[<img align="left" alt=“Django” width="26px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" />]
 
 
 
